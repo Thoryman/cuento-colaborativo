@@ -1,2 +1,2 @@
-# Versionamiento-de-C-digo
+# Versionamiento-de-Código
 Actividad de POO
